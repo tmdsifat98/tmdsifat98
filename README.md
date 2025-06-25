@@ -68,8 +68,7 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tmdsifat98"  />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tmdsifat98&theme=radical" /> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=tmdsifat98&theme=react-dark" />
 </p>
 
 <p align="center">
