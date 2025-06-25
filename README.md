@@ -66,11 +66,14 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmdsifat98&show_icons=true&locale=en&layout=compact" alt="jaber4770" /></p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&theme=radical" />
+  
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&locale=en" alt="jaber4770" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmdsifat98&" alt="jaber4770" /></p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
+</p>
 
 ---
 
