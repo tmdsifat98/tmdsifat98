@@ -68,13 +68,34 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&theme=radical" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tmdsifat98&theme=react-dark" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=tmdsifat98&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
 </p>
-<p></p>
+
+---
+
+## 👁️‍🗨️ Profile Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/tmdsifat98/count.svg" />
+</p>
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <a href="https://github.com/tmdsifat98">
+    <img src="https://github-profile-trophy.vercel.app/?username=tmdsifat98&theme=radical" />
+  </a>
+</p>
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tmdsifat98&theme=react-dark" />
+</p>
 
 
 
