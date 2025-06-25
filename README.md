@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I’m a passionate full-stack web developer from Bangladesh, currently pursuing my Bachelor's in Computer Science at the University of Rajshahi.  
+Hi there! I’m a passionate full-stack web developer from Bangladesh, currently pursuing my Bachelor's in Population Science & Human Resources Development at the University of Rajshahi.  
 I enjoy building modern, fast, and scalable web applications with clean UI and powerful backend logic.
 
 ---
@@ -74,7 +74,7 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaber4770&" alt="jaber4770" /></p>
 
 
 
