@@ -66,17 +66,11 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&theme=radical" />
-  
-</p>
-<p align="center">
-  <imgsrc="https://github-readme-streak-stats.herokuapp.com?user=tmdsifat98&theme=radical" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmdsifat98&show_icons=true&locale=en&layout=compact" alt="jaber4770" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmdsifat98&show_icons=true&locale=en" alt="jaber4770" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmdsifat98&" alt="jaber4770" /></p>
 
 ---
 
@@ -93,12 +87,5 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
     <img src="https://github-profile-trophy.vercel.app/?username=tmdsifat98&theme=radical" />
   </a>
 </p>
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tmdsifat98&theme=react-dark" />
-</p>
-
 
 
