@@ -4,7 +4,7 @@
 <h3 align="center">MERN Stack Web Developer | Student @ University of Rajshahi</h3>
 
 ---
- <img src="https://github-profile-trophy.vercel.app/?username=jaber4770&margin-w=20&margin-h=20" alt="jaber4770" />
+<img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="tmdsifat98"/>
 
 ---
 
