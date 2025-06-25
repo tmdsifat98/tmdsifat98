@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://YOUR_BANNER_URL" alt="banner" style="width:100%; border-radius: 12px"/>
+<img src="[https://YOUR_BANNER_URL](https://github.com/tmdsifat98/tmdsifat98/blob/main/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337.gif)" alt="banner" style="width:100%; border-radius: 12px"/>
 
 <h1 align="center">Hi, I'm Sifat 👋</h1>
 <h3 align="center">MERN Stack Web Developer | Student @ University of Rajshahi</h3>
