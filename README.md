@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi, I'm Sifat 👋</h1>
-<h3 align="center">MERN Stack Web Developer | Student @ University of Rajshahi</h3>
+<h1 align="center">Hi, I'm Sifat Tarafder 👋</h1>
+<h3 align="center">MERN Stack Web Developer | Student @University of Rajshahi</h3>
 
 ---
 
