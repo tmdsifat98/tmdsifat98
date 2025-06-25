@@ -72,7 +72,7 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 </p>
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdsifat98&layout=compact&theme=radical" />
 </p>
 
 ---
