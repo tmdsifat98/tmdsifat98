@@ -41,6 +41,7 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
   <img src="https://img.shields.io/badge/DaisyUI-FF72BC?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
