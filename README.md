@@ -21,9 +21,9 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 ## 📌 Currently Working On
 
 - 🚀 Learning **Next.js** & server-side rendering
-- 🌍 Developing a **tourism website** using MERN stack
-- 🧠 Exploring **JWT Auth** and **MongoDB Aggregation**
-- 🛠️ Building a **Booking App** with full CRUD + Stripe integration
+- 🌍 Developing a **Call Center app** using Kotliln and jetpack compose
+- 🧠 Exploring **Python** and **Basic algorithm**
+- 🛠️ Building a **Education app** with full CRUD + Stripe integration
 
 ---
 
