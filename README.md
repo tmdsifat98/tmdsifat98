@@ -78,19 +78,3 @@ I enjoy building modern, fast, and scalable web applications with clean UI and p
 </p>
 
 ---
-
-## 👁️‍🗨️ Profile Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/tmdsifat98/count.svg" />
-</p>
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <a href="https://github.com/tmdsifat98">
-    <img src="https://github-profile-trophy.vercel.app/?username=tmdsifat98&theme=radical" />
-  </a>
-</p>
-
-
